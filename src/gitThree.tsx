@@ -5,7 +5,7 @@ function Testingfree (){
     return(
         <div>
             hello world cup holding
-            <h2>trftftufutfyuf ytft</h2>
+            <title>dfewfewfew</title>
             <h2>trftftufutfyuf ytft</h2>
             <h2>trftftufutfyuf ytft</h2>
             <h2>trftftufutfyuf ytft</h2>
